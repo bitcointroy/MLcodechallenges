@@ -2,5 +2,5 @@
 ML Code Challenges
 
 Branches:
-- Master: Homework submissions
+- Master: Code Challenge submissions
 - Solutions: Solutions from Lambda Staff
